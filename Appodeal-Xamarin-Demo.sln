@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appodeal-Xamarin-Demo", "Appodeal-Xamarin-Demo.csproj", "{AF299BEF-4C96-436A-BA15-9E4C0287E32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF299BEF-4C96-436A-BA15-9E4C0287E32D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AF299BEF-4C96-436A-BA15-9E4C0287E32D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AF299BEF-4C96-436A-BA15-9E4C0287E32D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AF299BEF-4C96-436A-BA15-9E4C0287E32D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AF299BEF-4C96-436A-BA15-9E4C0287E32D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AF299BEF-4C96-436A-BA15-9E4C0287E32D}.Release|iPhone.Build.0 = Release|iPhone
+		{AF299BEF-4C96-436A-BA15-9E4C0287E32D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AF299BEF-4C96-436A-BA15-9E4C0287E32D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal

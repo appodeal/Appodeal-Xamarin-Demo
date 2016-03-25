@@ -1,0 +1,596 @@
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseBtn.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseBtn@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseBtn@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseButtonX.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseButtonX@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseButtonX@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPDAAIcon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPDAAIcon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPDAAIcon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPMutedBtn@1x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPMutedBtn@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPMutedBtn@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPPlayBtn.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPPlayBtn@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPPlayBtn@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPUnmutedBtn@1x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPUnmutedBtn@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPUnmutedBtn@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_adbadge.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_adbadge@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_adbadge@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_close.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_pattern.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_pattern@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_close.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_cta.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_mute_off.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_mute_on.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_privacy.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/back.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/back@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/back@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/browser_close.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/browser_close@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/browser_close@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close2.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close2@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close2@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/forward.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/forward@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/forward@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/pause_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/pause_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/pause_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/play_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/play_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/play_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_full_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_full_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_full_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_normal_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_normal_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_normal_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_mute_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_mute_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_mute_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/angle-mask.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/angle-mask@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/angle-mask@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/error.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/error@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/error@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/info.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/info@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/info@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/success.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/success@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/success@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/arrow@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/arrow_dark@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/browser_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/close@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/cross@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/default_icon_download.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/empty_star@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/full_star@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/half_star@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/startapp_logo@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/top_Apps@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_mute.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_mute@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_on.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_on@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/AdManagerAssets.bundle/spotx.momd/VersionInfo.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/Info.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/Info.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/Info.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/en.lproj/InfoPlist.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/de.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/en.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/es.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/fr.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/ja.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/ko.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/pl.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/ru.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/uk.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/zh-Hans.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/zh-Hant.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/en.lproj/InfoPlist.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPAdBrowserController.nib
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseBtn.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseBtn@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseBtn@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseButtonX.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseButtonX@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseButtonX@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPDAAIcon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPDAAIcon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPDAAIcon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPMutedBtn@1x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPMutedBtn@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPMutedBtn@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPPlayBtn.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPPlayBtn@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPPlayBtn@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPUnmutedBtn@1x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPUnmutedBtn@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPUnmutedBtn@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_adbadge.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_adbadge@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_adbadge@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_close.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_pattern.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_pattern@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/vg_close.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/vg_cta.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/vg_mute_off.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/vg_mute_on.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/vg_privacy.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/back.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/back@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/back@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/browser_close.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/browser_close@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/browser_close@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close2.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close2@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close2@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/forward.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/forward@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/forward@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/pause_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/pause_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/pause_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/play_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/play_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/play_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_full_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_full_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_full_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_normal_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_normal_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_normal_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_mute_icon.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_mute_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_mute_icon@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/angle-mask.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/angle-mask@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/angle-mask@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/error.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/error@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/error@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/info.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/info@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/info@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/success.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/success@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/success@3x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/arrow@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/arrow_dark@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/browser_icon@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/close@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/cross@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/default_icon_download.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/empty_star@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/full_star@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/half_star@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/startapp_logo@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/top_Apps@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/audio_mute.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/audio_mute@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/audio_on.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/audio_on@2x.png
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/__vungle.db
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/bridge.js
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/mraid-ios.js
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/mraid.js
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/spotx.js
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MRAID.bundle/mraid.js
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/rfm_mraid.js
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/ios_close.tiff
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/ios_close_mraid.tiff
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/ios_next.tiff
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/ios_prev.tiff
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/ios_refresh.tiff
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/spotx.momd/VersionInfo.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/Info.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/Info.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/Info.plist
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/spotx.momd/spotx.mom
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/vast_2.0.1.xsd
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/en.lproj/InfoPlist.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/de.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/en.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/es.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/fr.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/ja.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/ko.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/pl.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/ru.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/uk.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/zh-Hans.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/zh-Hant.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/en.lproj/InfoPlist.strings
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/loading.html
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe.mdb
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe.mdb
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/AppodealBinding.dll
+/Users/Danil/Projects/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/AppodealBinding.dll.mdb
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseBtn.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseBtn@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseBtn@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseButtonX.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseButtonX@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseButtonX@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPDAAIcon.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPDAAIcon@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPDAAIcon@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPMutedBtn@1x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPMutedBtn@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPMutedBtn@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPPlayBtn.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPPlayBtn@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPPlayBtn@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPUnmutedBtn@1x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPUnmutedBtn@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPUnmutedBtn@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_adbadge.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_adbadge@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_adbadge@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_close.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_pattern.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_pattern@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_close.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_cta.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_mute_off.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_mute_on.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_privacy.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/back.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/back@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/back@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/browser_close.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/browser_close@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/browser_close@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close2.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close2@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close2@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/forward.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/forward@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/forward@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/pause_icon.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/pause_icon@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/pause_icon@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/play_icon.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/play_icon@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/play_icon@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_full_icon.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_full_icon@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_full_icon@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_normal_icon.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_normal_icon@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_normal_icon@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_icon.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_icon@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_icon@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_mute_icon.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_mute_icon@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_mute_icon@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/angle-mask.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/angle-mask@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/angle-mask@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/error.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/error@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/error@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/info.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/info@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/info@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/success.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/success@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/success@3x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/arrow@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/arrow_dark@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/browser_icon@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/close@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/cross@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/default_icon_download.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/empty_star@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/full_star@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/half_star@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/startapp_logo@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/top_Apps@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_mute.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_mute@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_on.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_on@2x.png
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/AdManagerAssets.bundle/spotx.momd/VersionInfo.plist
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/Info.plist
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/Info.plist
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/Info.plist
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/en.lproj/InfoPlist.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/de.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/en.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/es.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/fr.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/ja.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/ko.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/pl.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/ru.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/uk.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/zh-Hans.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/zh-Hant.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/en.lproj/InfoPlist.strings
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe.mdb
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe.mdb
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/AppodealBinding.dll
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/AppodealBinding.dll.mdb
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Danil/Desktop/Копия Xamarin Appodeal/Appodeal-Xamarin-Demo/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseBtn.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseBtn@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseBtn@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseButtonX.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseButtonX@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPCloseButtonX@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPDAAIcon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPDAAIcon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPDAAIcon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPMutedBtn@1x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPMutedBtn@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPMutedBtn@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPPlayBtn.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPPlayBtn@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPPlayBtn@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPUnmutedBtn@1x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPUnmutedBtn@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/MPUnmutedBtn@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_adbadge.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_adbadge@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_adbadge@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_close.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_pattern.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/appodeal_pattern@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_close.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_cta.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_mute_off.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_mute_on.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/vg_privacy.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/back.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/back@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/back@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/browser_close.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/browser_close@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/browser_close@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close2.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close2@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close2@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/close@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/forward.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/forward@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/forward@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/pause_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/pause_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/pause_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/play_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/play_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/play_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_full_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_full_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_full_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_normal_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_normal_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/screen_normal_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_mute_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_mute_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/sound_mute_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/angle-mask.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/angle-mask@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/angle-mask@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/error.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/error@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/error@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/info.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/info@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/info@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/success.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/success@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/SVProgressHUD.bundle/success@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/arrow@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/arrow_dark@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/browser_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/close@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/cross@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/default_icon_download.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/empty_star@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/full_star@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/half_star@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/startapp_logo@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/top_Apps@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_mute.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_mute@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_on.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/audio_on@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/AdManagerAssets.bundle/spotx.momd/VersionInfo.plist
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/Info.plist
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/StartApp.bundle/Info.plist
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/Info.plist
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/RFMAdSDK.bundle/en.lproj/InfoPlist.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/de.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/en.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/es.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/fr.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/ja.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/ko.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/pl.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/ru.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/uk.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/zh-Hans.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/TOWebViewControllerLocalizable.bundle/zh-Hant.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/optimized/UnityAds.bundle/en.lproj/InfoPlist.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPAdBrowserController.nib
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseBtn.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseBtn@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseBtn@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseButtonX.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseButtonX@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPCloseButtonX@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPDAAIcon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPDAAIcon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPDAAIcon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPMutedBtn@1x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPMutedBtn@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPMutedBtn@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPPlayBtn.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPPlayBtn@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPPlayBtn@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPUnmutedBtn@1x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPUnmutedBtn@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MPUnmutedBtn@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_adbadge.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_adbadge@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_adbadge@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_close.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_pattern.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/appodeal_pattern@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/vg_close.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/vg_cta.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/vg_mute_off.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/vg_mute_on.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/vg_privacy.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/back.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/back@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/back@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/browser_close.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/browser_close@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/browser_close@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close2.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close2@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close2@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/close@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/forward.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/forward@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/forward@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/pause_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/pause_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/pause_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/play_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/play_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/play_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_full_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_full_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_full_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_normal_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_normal_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/screen_normal_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_mute_icon.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_mute_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/sound_mute_icon@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/angle-mask.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/angle-mask@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/angle-mask@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/error.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/error@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/error@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/info.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/info@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/info@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/success.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/success@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/SVProgressHUD.bundle/success@3x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/arrow@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/arrow_dark@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/browser_icon@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/close@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/cross@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/default_icon_download.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/empty_star@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/full_star@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/half_star@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/startapp_logo@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/top_Apps@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/audio_mute.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/audio_mute@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/audio_on.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/audio_on@2x.png
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/__vungle.db
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/bridge.js
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/mraid-ios.js
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/mraid.js
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/spotx.js
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/MRAID.bundle/mraid.js
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/rfm_mraid.js
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/ios_close.tiff
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/ios_close_mraid.tiff
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/ios_next.tiff
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/ios_prev.tiff
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/ios_refresh.tiff
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/spotx.momd/VersionInfo.plist
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/Info.plist
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/Info.plist
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/Info.plist
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/AdManagerAssets.bundle/spotx.momd/spotx.mom
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/vast_2.0.1.xsd
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/RFMAdSDK.bundle/en.lproj/InfoPlist.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/de.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/en.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/es.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/fr.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/ja.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/ko.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/pl.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/ru.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/uk.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/zh-Hans.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/TOWebViewControllerLocalizable.bundle/zh-Hant.lproj/TOWebViewControllerLocalizable.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/UnityAds.bundle/en.lproj/InfoPlist.strings
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/StartApp.bundle/loading.html
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe.mdb
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.exe.mdb
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/AppodealBinding.dll
+/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/AppodealBinding.dll.mdb

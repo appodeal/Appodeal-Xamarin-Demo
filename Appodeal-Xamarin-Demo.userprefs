@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Appodeal-Xamarin-Demo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppDelegate.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="21" Column="40" />
+      <File FileName="ViewController.cs" Line="1" Column="1" />
+      <File FileName="Info.plist" />
+      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="../../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/9.4.2.27/lib/mono/2.1/Xamarin.iOS.Common.targets" Line="13" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

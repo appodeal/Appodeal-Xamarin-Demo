@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9532" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uIU-QC-5Zg">
+                                <rect key="frame" x="263" y="104" width="74" height="30"/>
+                                <state key="normal" title="BannerTop"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Oeb-9K-g6R">
+                                <rect key="frame" x="253" y="142" width="95" height="30"/>
+                                <state key="normal" title="BannerCenter"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iC9-kI-YzA">
+                                <rect key="frame" x="251" y="180" width="99" height="30"/>
+                                <state key="normal" title="BannerBottom"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0oX-wf-vRo">
+                                <rect key="frame" x="266" y="218" width="68" height="30"/>
+                                <state key="normal" title="Interstitial"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="A2l-gF-yCQ">
+                                <rect key="frame" x="233" y="256" width="134" height="30"/>
+                                <state key="normal" title="NonSkippableVideo"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Fz-r5-Prd">
+                                <rect key="frame" x="246" y="294" width="108" height="30"/>
+                                <state key="normal" title="RewardedVideo"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ic9-3x-AM2">
+                                <rect key="frame" x="247" y="332" width="106" height="30"/>
+                                <state key="normal" title="SkippableVideo"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2VT-jO-bh5">
+                                <rect key="frame" x="280" y="370" width="40" height="30"/>
+                                <state key="normal" title="Video"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WyX-mO-gmJ">
+                                <rect key="frame" x="238" y="408" width="124" height="30"/>
+                                <state key="normal" title="VideoOrInterstitial"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="uIU-QC-5Zg" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="84" id="0RH-f0-DbD"/>
+                            <constraint firstItem="WyX-mO-gmJ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="2r3-3A-qhQ"/>
+                            <constraint firstItem="ic9-3x-AM2" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="4kj-c3-an2"/>
+                            <constraint firstItem="0oX-wf-vRo" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="5Ky-TG-agS"/>
+                            <constraint firstItem="A2l-gF-yCQ" firstAttribute="top" secondItem="0oX-wf-vRo" secondAttribute="bottom" constant="8" id="Dqa-JF-glJ"/>
+                            <constraint firstItem="5Fz-r5-Prd" firstAttribute="top" secondItem="A2l-gF-yCQ" secondAttribute="bottom" constant="8" id="GBi-VH-fp3"/>
+                            <constraint firstItem="WyX-mO-gmJ" firstAttribute="top" secondItem="2VT-jO-bh5" secondAttribute="bottom" constant="8" id="IGp-pQ-oO0"/>
+                            <constraint firstItem="ic9-3x-AM2" firstAttribute="top" secondItem="5Fz-r5-Prd" secondAttribute="bottom" constant="8" id="PdG-UP-h5u"/>
+                            <constraint firstItem="2VT-jO-bh5" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Ppu-7c-UNd"/>
+                            <constraint firstItem="Oeb-9K-g6R" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="YZU-ID-N2W"/>
+                            <constraint firstItem="0oX-wf-vRo" firstAttribute="top" secondItem="iC9-kI-YzA" secondAttribute="bottom" constant="8" id="ZS8-Mg-5ge"/>
+                            <constraint firstItem="uIU-QC-5Zg" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="aKZ-HI-1Uw"/>
+                            <constraint firstItem="iC9-kI-YzA" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="aTC-Tl-al8"/>
+                            <constraint firstItem="5Fz-r5-Prd" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="aTS-nz-dbS"/>
+                            <constraint firstItem="2VT-jO-bh5" firstAttribute="top" secondItem="ic9-3x-AM2" secondAttribute="bottom" constant="8" id="bPN-ig-DjM"/>
+                            <constraint firstItem="A2l-gF-yCQ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="fqi-L7-bRT"/>
+                            <constraint firstItem="iC9-kI-YzA" firstAttribute="top" secondItem="Oeb-9K-g6R" secondAttribute="bottom" constant="8" id="pr1-kd-uje"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="bannerButtomButton" destination="iC9-kI-YzA" id="RF4-kA-RVg"/>
+                        <outlet property="bannerCenterButton" destination="Oeb-9K-g6R" id="IQT-32-JcU"/>
+                        <outlet property="bannerTopButton" destination="uIU-QC-5Zg" id="LtO-Ix-GIe"/>
+                        <outlet property="interstitialButton" destination="0oX-wf-vRo" id="mKA-oV-gVK"/>
+                        <outlet property="nonSkippableButton" destination="A2l-gF-yCQ" id="ohF-QL-Mnr"/>
+                        <outlet property="rewardedButton" destination="5Fz-r5-Prd" id="yzg-is-wnn"/>
+                        <outlet property="skippableButton" destination="ic9-3x-AM2" id="lv2-Fy-88A"/>
+                        <outlet property="videoButton" destination="2VT-jO-bh5" id="NqF-rU-Krz"/>
+                        <outlet property="videoOrInterstitialButton" destination="WyX-mO-gmJ" id="l4L-aW-VGX"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>
