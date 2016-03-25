@@ -1,0 +1,42 @@
+# Version: 9.4.2.27 (cycle6-xi-c6sr2: 58ba2bc)
+# [first argument, ignore] # /Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.4.2.27/bin/mtouch \
+	--cache \
+	"/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/mtouch-cache" \
+	--sim \
+	"/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug/Appodeal-Xamarin-Demo.app" \
+	--executable \
+	Appodeal-Xamarin-Demo \
+	--fastdev \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.2 \
+	--targetver \
+	9.2 \
+	--new-refcount \
+	--abi=i386 \
+	--symbollist \
+	"/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/obj/iPhoneSimulator/Debug/mtouch-symbols.list" \
+	--dsym=no \
+	--registrar:static \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Users/Danil/Desktop/AppodealBinding/bin/Debug/AppodealBinding.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/Danil/Desktop/AppodealBinding/bin/Debug/AppodealBinding.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	"/Users/Danil/Desktop/Проверка Xamarin для github/Appodeal-Xamarin-Demo/bin/iPhoneSimulator/Debug//Appodeal-Xamarin-Demo.exe" \
