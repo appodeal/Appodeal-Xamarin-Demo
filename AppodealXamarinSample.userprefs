@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="AppodealXamarinSample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5X_API_23" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="120" Column="1" />
+      <File FileName="../../appodeal-plugins/appodeal-xamarin-plugin/obj/Release/generated/src/Com.Appodeal.Ads.INativeCallbacks.cs" Line="140" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AppodealXamarinSample AndroidDesignerPreferredDevice="Nexus 5" AndroidDesignerPreferredTheme="Theme.Material.NoActionBar.Fullscreen" />
+</Properties>

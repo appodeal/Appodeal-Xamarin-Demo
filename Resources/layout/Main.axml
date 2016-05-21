@@ -7,19 +7,14 @@
         android:id="@+id/initialize"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Initialize" />
+        android:text="INITIALIZE" />
     <Button
-        android:text="Cache Interstitial"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/cacheI" />
-    <Button
-        android:text="Show Interstitial"
+        android:text="SHOW INTERSTITIAL"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/showI" />
     <Button
-        android:text="Show Video"
+        android:text="SHOW SKIPPABLE VIDEO"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/showV" />
@@ -29,19 +24,36 @@
         android:layout_height="wrap_content"
         android:id="@+id/rewarded" />
     <Button
-        android:text="Show Banner"
+        android:text="SHOW BANNER"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/showB" />
     <Button
-        android:text="Hide Banner"
+        android:text="SHOW MREC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/showM" />
+    <Button
+        android:text="HIDE BANNER"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/hideB" />
+    <com.appodeal.ads.native_ad.views.NativeAdViewNewsFeed
+        android:id="@+id/native_ad_view_news_feed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp" />
     <com.appodeal.ads.BannerView
         android:id="@+id/appodealBannerView"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:visibility="gone"
-        android:layout_gravity="bottom" />
+        android:visibility="gone" />
+    <com.appodeal.ads.MrecView
+        android:id="@+id/appodealMrecView"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
 </LinearLayout>
