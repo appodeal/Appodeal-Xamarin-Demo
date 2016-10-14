@@ -9,7 +9,7 @@ using Com.Appodeal.Ads;
 namespace AppodealXamarinSample
 {
 	[Activity (Label = "AppodealXamarinSample", MainLauncher = true, Icon = "@drawable/icon")]
-	public class MainActivity : Activity, IInterstitialCallbacks, IBannerCallbacks
+	public class MainActivity : Activity, IInterstitialCallbacks, IBannerCallbacks, Com.Appodeal.Ads.Utils.PermissionsHelper.IAppodealPermissionCallbacks
 	{
 		
 		public String LOG_TAG = "Appodeal";
@@ -29,18 +29,22 @@ namespace AppodealXamarinSample
 					.SetAlcohol(UserSettings.Alcohol.NEGATIVE)
 					.SetSmoking(UserSettings.Smoking.NEUTRAL)
 					.SetEmail("hi@appodeal.com")
-					.SetFacebookId("1623169517896758")
-					.SetVkId("91918219")
 					.SetGender(UserSettings.Gender.MALE)
 					.SetRelation(UserSettings.Relation.DATING)
 					.SetInterests("reading, games, movies, snowboarding")
-					.SetOccupation(UserSettings.Occupation.WORK);
+					.SetOccupation(UserSettings.Occupation.WORK)
+                    .SetUserId("user_id");
 
 				Appodeal.SetTesting(false);
-				Appodeal.SetLogging(true);
+                Appodeal.LogLevel = Com.Appodeal.Ads.Utils.Log.LogLevel.debug;
 				Appodeal.SetInterstitialCallbacks(this);
 				Appodeal.SetBannerCallbacks(this);
 				Appodeal.Confirm(Appodeal.SKIPPABLE_VIDEO);
+                Appodeal.RequestAndroidMPermissions(this, this);
+                Appodeal.Set728x90Banners(false);
+                Appodeal.SetSmartBanners(false);
+                Appodeal.SetBannerAnimation(false);
+                Appodeal.SetCustomRule("special_user", true);
 				Appodeal.Initialize (this, "fee50c333ff3825fd6ad6d38cff78154de3025546d47a84f", Appodeal.INTERSTITIAL | Appodeal.BANNER);
 				Appodeal.SetBannerViewId(Resource.Id.appodealBannerView);
 			};
@@ -72,7 +76,18 @@ namespace AppodealXamarinSample
 		public void OnBannerShown() { Log.Debug(LOG_TAG, " OnBannerShown"); }
 		public void OnBannerClicked() { Log.Debug(LOG_TAG, " OnBannerClicked"); }
 
-	}
+        public void AccessCoarseLocationResponse(int result)
+        {
+            bool isGranted = result == (int)Android.Content.PM.Permission.Granted;
+            Log.Debug(LOG_TAG, "access location granted: " + isGranted);
+        }
+
+        public void WriteExternalStorageResponse(int result)
+        {
+            bool isGranted = result == (int)Android.Content.PM.Permission.Granted;
+            Log.Debug(LOG_TAG, "write external storage granted: " + isGranted);
+        }
+    }
 }
 
 
