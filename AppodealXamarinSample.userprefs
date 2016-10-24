@@ -1,8 +1,8 @@
-﻿<Properties StartupItem="AppodealXamarinSample.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/AndroidManifest.xml">
+﻿<Properties StartupConfiguration="{E9CC2E2C-557D-4355-B850-C05444DB0288}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="MainActivity.cs" Line="70" Column="57" />
-      <File FileName="Properties/AndroidManifest.xml" Line="69" Column="132" />
+      <File FileName="MainActivity.cs" Line="39" Column="59" />
+      <File FileName="Properties/AndroidManifest.xml" Line="147" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
@@ -10,5 +10,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AppodealXamarinSample AndroidDesignerPreferredDevice="Nexus 5" PreferredExecutionTarget="Android.Nexus_5X_API_23" AndroidDesignerPreferredTheme="Theme.Material.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.ItemProperties.AppodealXamarinSample AndroidDesignerPreferredDevice="Nexus 5" PreferredExecutionTarget="Android.TA39100EOF" AndroidDesignerPreferredTheme="Theme.Holo.Light" />
 </Properties>

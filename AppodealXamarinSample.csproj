@@ -44,8 +44,14 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Mono.Android" />
+    <Reference Include="nunit.framework">
+      <HintPath>packages\NUnit.3.0.1\lib\dotnet\nunit.framework.dll</HintPath>
+    </Reference>
     <Reference Include="Xamarin.Android.Support.v4">
       <HintPath>packages\Xamarin.Android.Support.v4.23.3.0\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v7.RecyclerView">
+      <HintPath>packages\Xamarin.Android.Support.v7.RecyclerView.23.3.0\lib\MonoAndroid403\Xamarin.Android.Support.v7.RecyclerView.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.GooglePlayServices.Basement">
       <HintPath>packages\Xamarin.GooglePlayServices.Basement.29.0.0.1\lib\MonoAndroid41\Xamarin.GooglePlayServices.Basement.dll</HintPath>
@@ -54,7 +60,7 @@
       <HintPath>packages\Xamarin.GooglePlayServices.Ads.29.0.0.1\lib\MonoAndroid41\Xamarin.GooglePlayServices.Ads.dll</HintPath>
     </Reference>
     <Reference Include="AppodealXamarinPlugin">
-      <HintPath>..\..\SDK_RELEASES\1.14.15\Xamarin\AppodealXamarinPlugin.dll</HintPath>
+      <HintPath>..\..\SDK_RELEASES\Plugins\Xamarin\Appodeal-Xamarin-Android-1.15.7\AppodealXamarinPlugin.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

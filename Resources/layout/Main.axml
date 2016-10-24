@@ -14,6 +14,16 @@
         android:layout_height="wrap_content"
         android:id="@+id/showI" />
     <Button
+        android:text="SHOW SKIPPABLE VIDEO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/showS" />
+    <Button
+        android:text="SHOW REWARDED VIDEO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/showR" />
+    <Button
         android:text="SHOW BANNER"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -23,9 +33,25 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/hideB" />
+    <Button
+        android:text="SHOW NATIVE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/showN" />
     <com.appodeal.ads.BannerView
         android:id="@+id/appodealBannerView"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:visibility="gone" />
+    <RelativeLayout
+        android:id="@+id/native_ad_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+        <com.appodeal.ads.native_ad.views.NativeAdViewAppWall
+            android:id="@+id/native_ad_view_app_wall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp" />
+    </RelativeLayout>
 </LinearLayout>
