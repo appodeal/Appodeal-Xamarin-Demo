@@ -52,6 +52,7 @@ namespace AppodealXamarinSample
 
 				Appodeal.SetInterstitialCallbacks(this);
 				Appodeal.SetBannerCallbacks(this);
+                Appodeal.SetNativeCallbacks(this);
 				Appodeal.Confirm(Appodeal.SKIPPABLE_VIDEO);
 				Appodeal.Initialize (this, "fee50c333ff3825fd6ad6d38cff78154de3025546d47a84f", Appodeal.INTERSTITIAL | Appodeal.BANNER | Appodeal.SKIPPABLE_VIDEO | Appodeal.REWARDED_VIDEO | Appodeal.NATIVE);
 				Appodeal.SetBannerViewId(Resource.Id.appodealBannerView);
@@ -116,7 +117,8 @@ namespace AppodealXamarinSample
 		public void OnNativeFailedToLoad() { Log.Debug(LOG_TAG, " OnNativeFailedToLoad"); }
 
 		public void OnNativeLoaded(IList<INativeAd> nativeAds) {
-			
+            NativeAdViewAppWall nativeAdView = FindViewById<NativeAdViewAppWall>(Resource.Id.native_ad_view_app_wall);
+            nativeAdView.SetNativeAd(nativeAds[0]);
 		}
 
 		public void OnNativeShown(INativeAd nativeAd) { Log.Debug(LOG_TAG, " OnNativeShown"); }
