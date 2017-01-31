@@ -60,7 +60,7 @@
       <HintPath>packages\Xamarin.GooglePlayServices.Ads.29.0.0.1\lib\MonoAndroid41\Xamarin.GooglePlayServices.Ads.dll</HintPath>
     </Reference>
     <Reference Include="AppodealXamarinPlugin">
-      <HintPath>..\..\SDK_RELEASES\Plugins\Xamarin\Appodeal-Xamarin-Android-1.15.7\AppodealXamarinPlugin.dll</HintPath>
+      <HintPath>..\AppodealXamarinPlugin.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

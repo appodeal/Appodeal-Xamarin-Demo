@@ -2,4 +2,15 @@
 <resources>
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">AppodealXamarinSample</string>
+	<string-array name="adtypes_array">
+        <item>Banner</item>
+        <item>Banner Top</item>
+        <item>Banner Bottom</item>
+        <item>Banner View</item>
+        <item>Native</item>
+        <item>Interstitial</item>
+        <item>Skippable Video</item>
+        <item>Rewarded Video</item>
+		<item>Interstitial or Video</item>
+    </string-array>
 </resources>
