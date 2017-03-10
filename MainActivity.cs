@@ -10,24 +10,55 @@ using System.Collections.Generic;
 
 namespace AppodealXamarinSample
 {
-	[Activity (Label = "AppodealXamarinSample", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity (Label = "AppodealXamarinSample", MainLauncher = true, Icon = "@drawable/icon", ScreenOrientation = Android.Content.PM.ScreenOrientation.Landscape)]
 	public class MainActivity : Activity, IInterstitialCallbacks, IBannerCallbacks, ISkippableVideoCallbacks, IRewardedVideoCallbacks, INativeCallbacks
 	{
-		
+
+		private Spinner adType;
 		public String LOG_TAG = "Appodeal";
 		private Activity mActivity;
 
 		protected override void OnCreate (Bundle savedInstanceState)
 		{
 			base.OnCreate (savedInstanceState);
-
+			ActionBar.Hide();
 			mActivity = this;
 
 			SetContentView (Resource.Layout.Main);
 
+			adType = FindViewById<Spinner>(Resource.Id.adType);
+			String[] adTypes = { "Banner", "Banner Top", "Banner Bottom", "Banner View", "Native", "Interstitial", "Skippable Video", "Rewarded Video", "Interstitial or Video" };
+			var adapter = ArrayAdapter.CreateFromResource(this, Resource.Array.adtypes_array, Android.Resource.Layout.SimpleSpinnerItem);
+			adType.Adapter = adapter;
+
+			CheckBox logging = FindViewById<CheckBox>(Resource.Id.logging);
+			CheckBox testing = FindViewById<CheckBox>(Resource.Id.testing);
+			CheckBox autocache = FindViewById<CheckBox>(Resource.Id.autocache);
+			CheckBox confirm = FindViewById<CheckBox>(Resource.Id.confirm);
+			CheckBox disableSmartBanners = FindViewById<CheckBox>(Resource.Id.disable_smart_banners);
+			CheckBox disableBannerAnimation = FindViewById<CheckBox>(Resource.Id.disable_banner_animation);
+			CheckBox disable728x90Banners = FindViewById<CheckBox>(Resource.Id.disable_728x90_banners);
+			CheckBox enableTriggerOnLoadedTwice = FindViewById<CheckBox>(Resource.Id.enable_trigger_on_loaded_on_precache);
+			CheckBox disableLocationPermissionCheck = FindViewById<CheckBox>(Resource.Id.disable_location_permission_check);
+			CheckBox disableWriteExternalStorageCheck = FindViewById<CheckBox>(Resource.Id.disable_write_external_storage_check);
+
 			Button initialize = FindViewById<Button> (Resource.Id.initialize);
 			initialize.Click += delegate {
 
+				if(logging.Checked)
+					Appodeal.LogLevel = Com.Appodeal.Ads.Utils.Log.LogLevel.Verbose;
+				else
+					Appodeal.LogLevel = Com.Appodeal.Ads.Utils.Log.LogLevel.None;
+
+				Appodeal.SetTesting(testing.Checked);
+				Appodeal.SetAutoCache(GetSelectedAdType(), autocache.Checked);
+				Appodeal.SetSmartBanners(!disableSmartBanners.Checked);
+				Appodeal.SetBannerAnimation(!disableBannerAnimation.Checked);
+				Appodeal.Set728x90Banners(!disable728x90Banners.Checked);
+				Appodeal.SetOnLoadedTriggerBoth(GetSelectedAdType(), enableTriggerOnLoadedTwice.Checked);
+				if(disableLocationPermissionCheck.Checked) Appodeal.DisableLocationPermissionCheck();
+				if(disableWriteExternalStorageCheck.Checked) Appodeal.DisableWriteExternalStoragePermissionCheck();
+				
 				Appodeal.GetUserSettings(this)
 					.SetAge(25)
 					.SetBirthday("17/06/1990")
@@ -45,7 +76,7 @@ namespace AppodealXamarinSample
 				Appodeal.SetCustomRule("name", "value");
 
 				Appodeal.SetTesting(false);
-				Appodeal.LogLevel = Com.Appodeal.Ads.Utils.Log.LogLevel.Verbose;
+
 
 				Appodeal.SetAutoCacheNativeIcons(false);
 				Appodeal.SetAutoCacheNativeMedia(false);
@@ -53,40 +84,66 @@ namespace AppodealXamarinSample
 				Appodeal.SetInterstitialCallbacks(this);
 				Appodeal.SetBannerCallbacks(this);
                 Appodeal.SetNativeCallbacks(this);
-				Appodeal.Confirm(Appodeal.SKIPPABLE_VIDEO);
-				Appodeal.Initialize (this, "fee50c333ff3825fd6ad6d38cff78154de3025546d47a84f", Appodeal.INTERSTITIAL | Appodeal.BANNER | Appodeal.SKIPPABLE_VIDEO | Appodeal.REWARDED_VIDEO | Appodeal.NATIVE);
+
+				if(confirm.Checked) Appodeal.Confirm(GetSelectedAdType());
+				Appodeal.Initialize (this, "fee50c333ff3825fd6ad6d38cff78154de3025546d47a84f", GetSelectedAdType());
 				Appodeal.SetBannerViewId(Resource.Id.appodealBannerView);
 			};
 
-			Button showInterstitial = FindViewById<Button> (Resource.Id.showI);
-			showInterstitial.Click += delegate {
-				Appodeal.Show (this, Appodeal.INTERSTITIAL);
+			Button cache = FindViewById<Button> (Resource.Id.cache);
+			cache.Click += delegate {
+				Appodeal.Cache(this, GetSelectedAdType());
 			};
 
-			Button showSkippableVideo = FindViewById<Button>(Resource.Id.showS);
-			showSkippableVideo.Click += delegate {
-				Appodeal.Show(this, Appodeal.SKIPPABLE_VIDEO);
+			Button isLoaded = FindViewById<Button>(Resource.Id.is_loaded);
+			isLoaded.Click += delegate {
+				Toast.MakeText(this, "is loaded: " + Appodeal.IsLoaded(GetSelectedAdType()), ToastLength.Short).Show();
 			};
 
-			Button showRewardedVideo = FindViewById<Button>(Resource.Id.showR);
-			showRewardedVideo.Click += delegate {
-				Appodeal.Show(this, Appodeal.REWARDED_VIDEO);
+			Button isPrecache = FindViewById<Button>(Resource.Id.is_precache);
+			isPrecache.Click += delegate {
+				Toast.MakeText(this, "is precache: " + Appodeal.IsPrecache(GetSelectedAdType()), ToastLength.Short).Show();
 			};
 
-			Button showNative = FindViewById<Button>(Resource.Id.showN);
-			showNative.Click += delegate {
-				Appodeal.Cache(this, Appodeal.NATIVE);
+			Button show = FindViewById<Button>(Resource.Id.show);
+			show.Click += delegate {
+				Appodeal.Show(this, GetSelectedAdType());
 			};
 
-			Button showBanner = FindViewById<Button> (Resource.Id.showB);
-			showBanner.Click += delegate {
-				Appodeal.Show(this, Appodeal.BANNER_VIEW);
+			Button showWithPlacement = FindViewById<Button> (Resource.Id.show_with_placement);
+			showWithPlacement.Click += delegate {
+				Appodeal.Show(this, GetSelectedAdType(), "main_menu");
 			};
 
-			Button hideBanner = FindViewById<Button> (Resource.Id.hideB);
-			hideBanner.Click += delegate {
-				Appodeal.Hide(this, Appodeal.BANNER);
+			Button hide = FindViewById<Button> (Resource.Id.hide);
+			hide.Click += delegate {
+				Appodeal.Hide(this, GetSelectedAdType());
 			};
+		}
+
+		private int GetSelectedAdType() {
+			switch (adType.SelectedItemPosition) {
+				case 0:
+					return Appodeal.BANNER;
+				case 1:
+					return Appodeal.BANNER_TOP;
+				case 2:
+					return Appodeal.BANNER_BOTTOM;
+				case 3:
+					return Appodeal.BANNER_VIEW;
+				case 4:
+					return Appodeal.NATIVE;
+				case 5:
+					return Appodeal.INTERSTITIAL;
+				case 6:
+					return Appodeal.SKIPPABLE_VIDEO;
+				case 7:
+					return Appodeal.REWARDED_VIDEO;
+				case 8:
+					return Appodeal.INTERSTITIAL | Appodeal.SKIPPABLE_VIDEO;
+				default:
+					return Appodeal.NONE;
+			}
 		}
 
 		public void OnInterstitialLoaded(bool b) { Log.Debug(LOG_TAG, " OnInterstitialLoaded"); }

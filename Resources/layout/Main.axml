@@ -3,55 +3,194 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
-    <Button
-        android:id="@+id/initialize"
+    <LinearLayout
+        android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="INITIALIZE" />
-    <Button
-        android:text="SHOW INTERSTITIAL"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/showI" />
-    <Button
-        android:text="SHOW SKIPPABLE VIDEO"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/showS" />
-    <Button
-        android:text="SHOW REWARDED VIDEO"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/showR" />
-    <Button
-        android:text="SHOW BANNER"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/showB" />
-    <Button
-        android:text="HIDE BANNER"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/hideB" />
-    <Button
-        android:text="SHOW NATIVE"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/showN" />
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="0.4">
+            <Spinner
+                android:id="@+id/adType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="11sp"
+                android:gravity="center" />
+            <Button
+                android:id="@+id/initialize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="11sp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:padding="5dp"
+                android:text="Initialize" />
+            <Button
+                android:text="Cache"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="11sp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:padding="5dp"
+                android:id="@+id/cache" />
+            <Button
+                android:text="Is Loaded?"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="11sp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:padding="5dp"
+                android:id="@+id/is_loaded" />
+            <Button
+                android:text="Is Precache?"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="11sp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:padding="5dp"
+                android:id="@+id/is_precache" />
+            <Button
+                android:text="Show"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="11sp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:padding="5dp"
+                android:id="@+id/show" />
+            <Button
+                android:text="Show With Placement"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="11sp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:padding="5dp"
+                android:id="@+id/show_with_placement" />
+            <Button
+                android:text="Hide"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="11sp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:padding="5dp"
+                android:id="@+id/hide" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="0.6">
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <CheckBox
+                    android:textSize="11sp"
+                    android:id="@+id/logging"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:minHeight="0dp"
+                    android:minWidth="0dp"
+                    android:text="Logging" />
+                <CheckBox
+                    android:textSize="11sp"
+                    android:layout_marginLeft="2dp"
+                    android:id="@+id/testing"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:minHeight="0dp"
+                    android:minWidth="0dp"
+                    android:text="Testing" />
+                <CheckBox
+                    android:textSize="11sp"
+                    android:layout_marginLeft="2dp"
+                    android:id="@+id/autocache"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:minHeight="0dp"
+                    android:minWidth="0dp"
+                    android:text="Auto Cache" />
+                <CheckBox
+                    android:textSize="11sp"
+                    android:layout_marginLeft="2dp"
+                    android:id="@+id/confirm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:minHeight="0dp"
+                    android:minWidth="0dp"
+                    android:text="Confirm" />
+            </LinearLayout>
+            <CheckBox
+                android:textSize="11sp"
+                android:id="@+id/disable_smart_banners"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:text="Disable Smart Banners" />
+            <CheckBox
+                android:textSize="11sp"
+                android:id="@+id/disable_banner_animation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:text="Disable Banner Animation" />
+            <CheckBox
+                android:textSize="11sp"
+                android:id="@+id/disable_728x90_banners"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:text="Disable 728x90 Banners" />
+            <CheckBox
+                android:textSize="11sp"
+                android:id="@+id/enable_trigger_on_loaded_on_precache"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:text="Enable Trigger onLoaded on precache" />
+            <CheckBox
+                android:textSize="11sp"
+                android:id="@+id/disable_location_permission_check"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:text="Disable Location Permission Check" />
+            <CheckBox
+                android:textSize="11sp"
+                android:id="@+id/disable_write_external_storage_check"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:text="Disable Write External Storage Check" />
+            <RelativeLayout
+                android:id="@+id/native_ad_holder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom">
+                <com.appodeal.ads.native_ad.views.NativeAdViewAppWall
+                    android:id="@+id/native_ad_view_app_wall"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
     <com.appodeal.ads.BannerView
         android:id="@+id/appodealBannerView"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:visibility="gone" />
-    <RelativeLayout
-        android:id="@+id/native_ad_holder"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom">
-        <com.appodeal.ads.native_ad.views.NativeAdViewAppWall
-            android:id="@+id/native_ad_view_app_wall"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp" />
-    </RelativeLayout>
 </LinearLayout>

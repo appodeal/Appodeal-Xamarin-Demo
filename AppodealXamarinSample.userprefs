@@ -1,14 +1,34 @@
 ﻿<Properties StartupConfiguration="{E9CC2E2C-557D-4355-B850-C05444DB0288}|Default">
-  <MonoDevelop.Ide.Workbench>
-    <Files>
-      <File FileName="MainActivity.cs" Line="39" Column="59" />
-      <File FileName="Properties/AndroidManifest.xml" Line="147" Column="3" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AppodealXamarinSample AndroidDesignerPreferredDevice="Nexus 5" PreferredExecutionTarget="Android.TA39100EOF" AndroidDesignerPreferredTheme="Theme.Holo.Light" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MainActivity.cs" Line="54" Column="57" />
+      <File FileName="Properties\AndroidManifest.xml" Line="27" Column="35" />
+      <File FileName="Resources\values\Strings.xml" Line="5" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppodealXamarinSample" expanded="True">
+            <Node name="AppodealXamarinSample" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True">
+                  <Node name="Strings.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppodealXamarinSample AndroidDesignerPreferredDevice="Android TV (1080p)" AndroidDesignerPreferredTheme="Theme.Holo.Light" PreferredExecutionTarget="Android.192.168.249.101:5555" />
 </Properties>
