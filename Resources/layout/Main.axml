@@ -116,16 +116,7 @@
                     android:layout_height="wrap_content"
                     android:minHeight="0dp"
                     android:minWidth="0dp"
-                    android:text="Auto Cache" />
-                <CheckBox
-                    android:textSize="11sp"
-                    android:layout_marginLeft="2dp"
-                    android:id="@+id/confirm"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:minHeight="0dp"
-                    android:minWidth="0dp"
-                    android:text="Confirm" />
+                    android:text="Autocache" />
             </LinearLayout>
             <CheckBox
                 android:textSize="11sp"

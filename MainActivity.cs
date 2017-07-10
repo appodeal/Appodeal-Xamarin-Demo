@@ -5,13 +5,13 @@ using Android.Widget;
 using Android.OS;
 using Android.Util;
 using Com.Appodeal.Ads;
-using Com.Appodeal.Ads.Native_ad.Views;
 using System.Collections.Generic;
+using Com.Appodeal.Ads.Native_ad.Views;
 
 namespace AppodealXamarinSample
 {
 	[Activity (Label = "AppodealXamarinSample", MainLauncher = true, Icon = "@drawable/icon", ScreenOrientation = Android.Content.PM.ScreenOrientation.Landscape)]
-	public class MainActivity : Activity, IInterstitialCallbacks, IBannerCallbacks, ISkippableVideoCallbacks, IRewardedVideoCallbacks, INativeCallbacks
+	public class MainActivity : Activity, IInterstitialCallbacks, IBannerCallbacks, IRewardedVideoCallbacks, INativeCallbacks
 	{
 
 		private Spinner adType;
@@ -27,14 +27,13 @@ namespace AppodealXamarinSample
 			SetContentView (Resource.Layout.Main);
 
 			adType = FindViewById<Spinner>(Resource.Id.adType);
-			String[] adTypes = { "Banner", "Banner Top", "Banner Bottom", "Banner View", "Native", "Interstitial", "Skippable Video", "Rewarded Video", "Interstitial or Video" };
+			String[] adTypes = { "Banner", "Banner Top", "Banner Bottom", "Banner View", "Native", "Interstitial", "Rewarded Video"};
 			var adapter = ArrayAdapter.CreateFromResource(this, Resource.Array.adtypes_array, Android.Resource.Layout.SimpleSpinnerItem);
 			adType.Adapter = adapter;
-
+            
 			CheckBox logging = FindViewById<CheckBox>(Resource.Id.logging);
 			CheckBox testing = FindViewById<CheckBox>(Resource.Id.testing);
 			CheckBox autocache = FindViewById<CheckBox>(Resource.Id.autocache);
-			CheckBox confirm = FindViewById<CheckBox>(Resource.Id.confirm);
 			CheckBox disableSmartBanners = FindViewById<CheckBox>(Resource.Id.disable_smart_banners);
 			CheckBox disableBannerAnimation = FindViewById<CheckBox>(Resource.Id.disable_banner_animation);
 			CheckBox disable728x90Banners = FindViewById<CheckBox>(Resource.Id.disable_728x90_banners);
@@ -55,20 +54,13 @@ namespace AppodealXamarinSample
 				Appodeal.SetSmartBanners(!disableSmartBanners.Checked);
 				Appodeal.SetBannerAnimation(!disableBannerAnimation.Checked);
 				Appodeal.Set728x90Banners(!disable728x90Banners.Checked);
-				Appodeal.SetOnLoadedTriggerBoth(GetSelectedAdType(), enableTriggerOnLoadedTwice.Checked);
+                Appodeal.SetTriggerOnLoadedOnPrecache(GetSelectedAdType(), enableTriggerOnLoadedTwice.Checked);
 				if(disableLocationPermissionCheck.Checked) Appodeal.DisableLocationPermissionCheck();
 				if(disableWriteExternalStorageCheck.Checked) Appodeal.DisableWriteExternalStoragePermissionCheck();
-				
-				Appodeal.GetUserSettings(this)
-					.SetAge(25)
-					.SetBirthday("17/06/1990")
-					.SetAlcohol(UserSettings.Alcohol.NEGATIVE)
-					.SetSmoking(UserSettings.Smoking.NEUTRAL)
-					.SetEmail("hi@appodeal.com")
-					.SetGender(UserSettings.Gender.MALE)
-					.SetRelation(UserSettings.Relation.DATING)
-					.SetInterests("reading, games, movies, snowboarding")
-					.SetOccupation(UserSettings.Occupation.WORK);
+
+                Appodeal.GetUserSettings(this)
+                    .SetAge(25)
+                    .SetGender(UserSettings.Gender.MALE);
 
 				Appodeal.SetCustomRule("name", 10);
 				Appodeal.SetCustomRule("name", 100.5);
@@ -85,7 +77,6 @@ namespace AppodealXamarinSample
 				Appodeal.SetBannerCallbacks(this);
                 Appodeal.SetNativeCallbacks(this);
 
-				if(confirm.Checked) Appodeal.Confirm(GetSelectedAdType());
 				Appodeal.Initialize (this, "fee50c333ff3825fd6ad6d38cff78154de3025546d47a84f", GetSelectedAdType());
 				Appodeal.SetBannerViewId(Resource.Id.appodealBannerView);
 			};
@@ -136,11 +127,7 @@ namespace AppodealXamarinSample
 				case 5:
 					return Appodeal.INTERSTITIAL;
 				case 6:
-					return Appodeal.SKIPPABLE_VIDEO;
-				case 7:
 					return Appodeal.REWARDED_VIDEO;
-				case 8:
-					return Appodeal.INTERSTITIAL | Appodeal.SKIPPABLE_VIDEO;
 				default:
 					return Appodeal.NONE;
 			}
@@ -169,15 +156,17 @@ namespace AppodealXamarinSample
 		public void OnRewardedVideoClosed(bool finished) { Log.Debug(LOG_TAG, " OnRewardedVideoClosed"); }
 		public void OnRewardedVideoFinished(int amount, string name) { Log.Debug(LOG_TAG, " OnRewardedVideoFinished"); }
 
-		public void OnNativeClicked(INativeAd nativeAd) { Log.Debug(LOG_TAG, " OnNativeClicked"); }
+        public void OnNativeClicked(INativeAd nativeAd) { Log.Debug(LOG_TAG, " OnNativeClicked"); }
 
-		public void OnNativeFailedToLoad() { Log.Debug(LOG_TAG, " OnNativeFailedToLoad"); }
+        public void OnNativeFailedToLoad() { Log.Debug(LOG_TAG, " OnNativeFailedToLoad"); }
 
-		public void OnNativeLoaded(IList<INativeAd> nativeAds) {
+        public void OnNativeLoaded()
+        {
+            IList<INativeAd> nativeAds = Appodeal.GetNativeAds(1);
             NativeAdViewAppWall nativeAdView = FindViewById<NativeAdViewAppWall>(Resource.Id.native_ad_view_app_wall);
             nativeAdView.SetNativeAd(nativeAds[0]);
-		}
+        }
+        public void OnNativeShown(INativeAd nativeAd) { Log.Debug(LOG_TAG, " OnNativeShown"); }
 
-		public void OnNativeShown(INativeAd nativeAd) { Log.Debug(LOG_TAG, " OnNativeShown"); }
-	}
+    }
 }

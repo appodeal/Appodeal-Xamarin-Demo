@@ -9,8 +9,6 @@
         <item>Banner View</item>
         <item>Native</item>
         <item>Interstitial</item>
-        <item>Skippable Video</item>
         <item>Rewarded Video</item>
-		<item>Interstitial or Video</item>
     </string-array>
 </resources>
