@@ -31,8 +31,8 @@ namespace AppodealXamarinSample
 		public partial class Array
 		{
 			
-			// aapt resource value: 0x7f090000
-			public const int adtypes_array = 2131296256;
+			// aapt resource value: 0x7f0a0000
+			public const int adtypes_array = 2131361792;
 			
 			static Array()
 			{
@@ -87,6 +87,25 @@ namespace AppodealXamarinSample
 			}
 		}
 		
+		public partial class Color
+		{
+			
+			// aapt resource value: 0x7f090000
+			public const int mmadsdk_inline_video_controls_background = 2131296256;
+			
+			// aapt resource value: 0x7f090001
+			public const int mmadsdk_lightbox_curtain_background = 2131296257;
+			
+			static Color()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Color()
+			{
+			}
+		}
+		
 		public partial class Dimension
 		{
 			
@@ -98,6 +117,66 @@ namespace AppodealXamarinSample
 			
 			// aapt resource value: 0x7f070002
 			public const int item_touch_helper_swipe_escape_velocity = 2131165186;
+			
+			// aapt resource value: 0x7f070003
+			public const int mmadsdk_ad_button_height = 2131165187;
+			
+			// aapt resource value: 0x7f070004
+			public const int mmadsdk_ad_button_padding_left = 2131165188;
+			
+			// aapt resource value: 0x7f070005
+			public const int mmadsdk_ad_button_width = 2131165189;
+			
+			// aapt resource value: 0x7f070006
+			public const int mmadsdk_control_button_height = 2131165190;
+			
+			// aapt resource value: 0x7f070014
+			public const int mmadsdk_control_button_max_width_height = 2131165204;
+			
+			// aapt resource value: 0x7f070015
+			public const int mmadsdk_control_button_min_width_height = 2131165205;
+			
+			// aapt resource value: 0x7f070007
+			public const int mmadsdk_control_button_width = 2131165191;
+			
+			// aapt resource value: 0x7f070008
+			public const int mmadsdk_lightbox_bottom_margin = 2131165192;
+			
+			// aapt resource value: 0x7f070009
+			public const int mmadsdk_lightbox_fullscreen_companion_top_margin = 2131165193;
+			
+			// aapt resource value: 0x7f07000a
+			public const int mmadsdk_lightbox_height = 2131165194;
+			
+			// aapt resource value: 0x7f07000b
+			public const int mmadsdk_lightbox_minimize_button_height = 2131165195;
+			
+			// aapt resource value: 0x7f07000c
+			public const int mmadsdk_lightbox_minimize_button_right_margin = 2131165196;
+			
+			// aapt resource value: 0x7f07000d
+			public const int mmadsdk_lightbox_minimize_button_top_margin = 2131165197;
+			
+			// aapt resource value: 0x7f07000e
+			public const int mmadsdk_lightbox_minimize_button_width = 2131165198;
+			
+			// aapt resource value: 0x7f07000f
+			public const int mmadsdk_lightbox_replay_button_height = 2131165199;
+			
+			// aapt resource value: 0x7f070010
+			public const int mmadsdk_lightbox_replay_button_width = 2131165200;
+			
+			// aapt resource value: 0x7f070011
+			public const int mmadsdk_lightbox_right_margin = 2131165201;
+			
+			// aapt resource value: 0x7f070012
+			public const int mmadsdk_lightbox_top_margin = 2131165202;
+			
+			// aapt resource value: 0x7f070013
+			public const int mmadsdk_lightbox_width = 2131165203;
+			
+			// aapt resource value: 0x7f070016
+			public const int mmadsdk_mraid_resize_close_area_size = 2131165206;
 			
 			static Dimension()
 			{
@@ -115,6 +194,57 @@ namespace AppodealXamarinSample
 			// aapt resource value: 0x7f020000
 			public const int Icon = 2130837504;
 			
+			// aapt resource value: 0x7f020001
+			public const int mmadsdk_close = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int mmadsdk_expand_collapse = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int mmadsdk_fullscreen = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int mmadsdk_inline_video_progress_bar = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int mmadsdk_lightbox_down = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int mmadsdk_lightbox_replay = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int mmadsdk_mute_unmute = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int mmadsdk_no_sound = 2130837512;
+			
+			// aapt resource value: 0x7f020009
+			public const int mmadsdk_pause = 2130837513;
+			
+			// aapt resource value: 0x7f02000a
+			public const int mmadsdk_play = 2130837514;
+			
+			// aapt resource value: 0x7f02000b
+			public const int mmadsdk_play_pause = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int mmadsdk_sound = 2130837516;
+			
+			// aapt resource value: 0x7f02000d
+			public const int mmadsdk_unfullscreen = 2130837517;
+			
+			// aapt resource value: 0x7f02000e
+			public const int mmadsdk_vast_close = 2130837518;
+			
+			// aapt resource value: 0x7f02000f
+			public const int mmadsdk_vast_opacity = 2130837519;
+			
+			// aapt resource value: 0x7f020010
+			public const int mmadsdk_vast_replay = 2130837520;
+			
+			// aapt resource value: 0x7f020011
+			public const int mmadsdk_vast_skip = 2130837521;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -128,77 +258,89 @@ namespace AppodealXamarinSample
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f080004
-			public const int adType = 2131230724;
-			
-			// aapt resource value: 0x7f080001
-			public const int adjust_height = 2131230721;
-			
-			// aapt resource value: 0x7f080002
-			public const int adjust_width = 2131230722;
-			
-			// aapt resource value: 0x7f080017
-			public const int appodealBannerView = 2131230743;
-			
-			// aapt resource value: 0x7f08000e
-			public const int autocache = 2131230734;
-			
-			// aapt resource value: 0x7f080006
-			public const int cache = 2131230726;
-			
-			// aapt resource value: 0x7f080011
-			public const int disable_728x90_banners = 2131230737;
-			
-			// aapt resource value: 0x7f080010
-			public const int disable_banner_animation = 2131230736;
-			
-			// aapt resource value: 0x7f080013
-			public const int disable_location_permission_check = 2131230739;
-			
-			// aapt resource value: 0x7f08000f
-			public const int disable_smart_banners = 2131230735;
-			
-			// aapt resource value: 0x7f080014
-			public const int disable_write_external_storage_check = 2131230740;
-			
-			// aapt resource value: 0x7f080012
-			public const int enable_trigger_on_loaded_on_precache = 2131230738;
-			
-			// aapt resource value: 0x7f08000b
-			public const int hide = 2131230731;
+			// aapt resource value: 0x7f080008
+			public const int adType = 2131230728;
 			
 			// aapt resource value: 0x7f080005
-			public const int initialize = 2131230725;
+			public const int adjust_height = 2131230725;
 			
-			// aapt resource value: 0x7f080007
-			public const int is_loaded = 2131230727;
+			// aapt resource value: 0x7f080006
+			public const int adjust_width = 2131230726;
 			
-			// aapt resource value: 0x7f080008
-			public const int is_precache = 2131230728;
+			// aapt resource value: 0x7f08001b
+			public const int appodealBannerView = 2131230747;
+			
+			// aapt resource value: 0x7f080012
+			public const int autocache = 2131230738;
+			
+			// aapt resource value: 0x7f08000a
+			public const int cache = 2131230730;
+			
+			// aapt resource value: 0x7f080015
+			public const int disable_728x90_banners = 2131230741;
+			
+			// aapt resource value: 0x7f080014
+			public const int disable_banner_animation = 2131230740;
+			
+			// aapt resource value: 0x7f080017
+			public const int disable_location_permission_check = 2131230743;
+			
+			// aapt resource value: 0x7f080013
+			public const int disable_smart_banners = 2131230739;
+			
+			// aapt resource value: 0x7f080018
+			public const int disable_write_external_storage_check = 2131230744;
+			
+			// aapt resource value: 0x7f080016
+			public const int enable_trigger_on_loaded_on_precache = 2131230742;
+			
+			// aapt resource value: 0x7f08000f
+			public const int hide = 2131230735;
+			
+			// aapt resource value: 0x7f080009
+			public const int initialize = 2131230729;
+			
+			// aapt resource value: 0x7f08000b
+			public const int is_loaded = 2131230731;
+			
+			// aapt resource value: 0x7f08000c
+			public const int is_precache = 2131230732;
 			
 			// aapt resource value: 0x7f080000
 			public const int item_touch_helper_previous_elevation = 2131230720;
 			
-			// aapt resource value: 0x7f08000c
-			public const int logging = 2131230732;
+			// aapt resource value: 0x7f080010
+			public const int logging = 2131230736;
 			
-			// aapt resource value: 0x7f080015
-			public const int native_ad_holder = 2131230741;
+			// aapt resource value: 0x7f080001
+			public const int mmadsdk_inline_video_mute_unmute_button = 2131230721;
 			
-			// aapt resource value: 0x7f080016
-			public const int native_ad_view_app_wall = 2131230742;
+			// aapt resource value: 0x7f080002
+			public const int mmadsdk_inline_video_play_pause_button = 2131230722;
 			
 			// aapt resource value: 0x7f080003
-			public const int none = 2131230723;
+			public const int mmadsdk_light_box_video_view = 2131230723;
 			
-			// aapt resource value: 0x7f080009
-			public const int show = 2131230729;
+			// aapt resource value: 0x7f080004
+			public const int mmadsdk_vast_video_control_buttons = 2131230724;
 			
-			// aapt resource value: 0x7f08000a
-			public const int show_with_placement = 2131230730;
+			// aapt resource value: 0x7f080019
+			public const int native_ad_holder = 2131230745;
+			
+			// aapt resource value: 0x7f08001a
+			public const int native_ad_view_app_wall = 2131230746;
+			
+			// aapt resource value: 0x7f080007
+			public const int none = 2131230727;
 			
 			// aapt resource value: 0x7f08000d
-			public const int testing = 2131230733;
+			public const int show = 2131230733;
+			
+			// aapt resource value: 0x7f08000e
+			public const int show_with_placement = 2131230734;
+			
+			// aapt resource value: 0x7f080011
+			public const int testing = 2131230737;
 			
 			static Id()
 			{
@@ -248,8 +390,8 @@ namespace AppodealXamarinSample
 			// aapt resource value: 0x7f040005
 			public const int accept = 2130968581;
 			
-			// aapt resource value: 0x7f04000a
-			public const int app_name = 2130968586;
+			// aapt resource value: 0x7f04000b
+			public const int app_name = 2130968587;
 			
 			// aapt resource value: 0x7f040001
 			public const int auth_google_play_services_client_facebook_display_name = 2130968577;
@@ -269,8 +411,11 @@ namespace AppodealXamarinSample
 			// aapt resource value: 0x7f040006
 			public const int decline = 2130968582;
 			
+			// aapt resource value: 0x7f04000a
+			public const int hello = 2130968586;
+			
 			// aapt resource value: 0x7f040009
-			public const int hello = 2130968585;
+			public const int mmadsdk_app_name = 2130968585;
 			
 			// aapt resource value: 0x7f040004
 			public const int store_picture_message = 2130968580;
@@ -293,6 +438,9 @@ namespace AppodealXamarinSample
 			
 			// aapt resource value: 0x7f060000
 			public const int Theme_IAPTheme = 2131099648;
+			
+			// aapt resource value: 0x7f060001
+			public const int Theme_MMTransparent = 2131099649;
 			
 			static Style()
 			{
