@@ -3,14 +3,14 @@
 	<uses-sdk android:minSdkVersion="12" />
 	<application android:label="Appodeal Test" android:theme="@android:style/Theme.Holo.Light">
     <activity android:name="com.appodeal.ads.InterstitialActivity"
-	android:configChanges="orientation|screenSize"
-	android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+      android:configChanges="orientation|screenSize"
+      android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
     <activity android:name="com.appodeal.ads.VideoActivity"
       android:configChanges="orientation|screenSize"
-      android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+      android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
     <activity android:name="com.appodeal.ads.LoaderActivity"
       android:configChanges="orientation|screenSize"
-      android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+      android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
     <activity android:name="com.appodeal.ads.VideoPlayerActivity"
       android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
     <receiver android:name="com.appodeal.ads.AppodealPackageAddedReceiver" android:exported="true" android:enabled="true">
@@ -79,6 +79,11 @@
     <service android:name="com.startapp.android.publish.common.metaData.PeriodicMetaDataService" />
     <!--suppress AndroidDomInspection -->
     <service android:name="com.startapp.android.publish.common.metaData.InfoEventService" />
+    <receiver android:name="com.startapp.android.publish.common.metaData.BootCompleteListener" >
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+      </intent-filter>
+    </receiver>
 
 
     <service android:name="com.yandex.metrica.MetricaService" android:enabled="true"
@@ -158,6 +163,29 @@
       android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
       android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
+    <activity android:name="com.mobvista.msdk.offerwall.view.MVOfferWallActivity"
+      android:configChanges="screenSize|orientation"
+      android:screenOrientation="portrait" />
+    <activity android:name="com.mobvista.msdk.offerwall.view.MVOfferWallRewardVideoActivity"
+      android:configChanges="keyboardHidden|orientation|screenSize"
+      android:screenOrientation="landscape"
+      android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+    <activity android:name="com.mobvista.msdk.reward.player.MVRewardVideoActivity"
+      android:configChanges="orientation|keyboardHidden|screenSize"
+      android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+    <activity android:name="com.mobvista.msdk.videofeeds.vfplayer.VideoFeedsActivity"
+      android:configChanges="keyboardHidden|orientation|screenSize"
+      android:screenOrientation="portrait" />
+    <activity android:name="com.mobvista.msdk.out.LoadingActivity" />
+    <activity android:name="com.mobvista.msdk.interstitial.view.MVInterstitialActivity"
+      android:configChanges="orientation|screenSize"
+      android:screenOrientation="portrait"
+      android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+    <activity android:name="com.mobvista.msdk.shell.MVActivity"
+      android:configChanges="keyboard|orientation"
+      android:screenOrientation="portrait"
+      android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+
     <!--suppress AndroidDomInspection -->
     <activity android:name="com.tapjoy.TJAdUnitActivity" android:configChanges="orientation|keyboardHidden|screenSize"
       android:hardwareAccelerated="true" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
@@ -193,39 +221,12 @@
         <action android:name="com.inmobi.share.id"/>
       </intent-filter>
     </receiver>
-
-    <!--optional, remove if not using Ogury-->
-    <meta-data android:name="presage_key" android:value="000000"/>
-    <!--optional, remove if not using Ogury-->
-    <service android:name="io.presage.PresageService" android:enabled="true" android:exported="true" android:process=":remote">
-      <intent-filter>
-        <action android:name="io.presage.PresageService.PIVOT" />
-      </intent-filter>
-    </service>
-    <!--optional, remove if not using Ogury-->
-    <activity android:name="io.presage.activities.PresageActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-        android:hardwareAccelerated="true" android:theme="@android:style/Theme.Translucent.NoTitleBar">
-      <intent-filter>
-        <action android:name="io.presage.intent.action.LAUNCH_WEBVIEW" />
-        <category android:name="android.intent.category.DEFAULT" />
-      </intent-filter>
-    </activity>
-    <!--optional, remove if not using Ogury-->
-    <receiver android:name="io.presage.receiver.NetworkChangeReceiver">
-      <intent-filter>
-        <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-        <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
-        <action android:name="io.presage.receiver.NetworkChangeReceiver.ONDESTROY" />
-      </intent-filter>
-    </receiver>
-    <!--optional, remove if not using Ogury-->
-    <receiver android:name="io.presage.receiver.AlarmReceiver" />
-    <!--optional, remove if not using Ogury-->
+    <!--optional, remove if not using Millennial Media-->
     <provider
-        android:name="io.presage.provider.PresageProvider"
-        android:authorities="${applicationId}.PresageProvider"
-        android:enabled="true"
-        android:exported="true" />
+      android:name="com.millennialmedia.internal.utils.MediaContentProvider"
+      android:authorities="${applicationId}.MediaContentProvider"
+      android:grantUriPermissions="true"
+      android:exported="false" />
   </application>
 	<uses-permission android:name="android.permission.INTERNET" />
 	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
